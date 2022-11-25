@@ -66,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669369054393</updated>
-      <workItem from="1669369056502" duration="3446000" />
+      <workItem from="1669369056502" duration="3781000" />
     </task>
     <task id="LOCAL-00001" summary="First share">
       <created>1669369553766</created>
@@ -89,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669372155263</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add file : ClientServer">
+      <created>1669372510758</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669372510758</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
